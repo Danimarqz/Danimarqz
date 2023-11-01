@@ -1,5 +1,5 @@
 # 💫 About Me:
-⚡ Hi, my name is Dani, 26 years old looking forward to become a full stack web developer<br>🔭 I’m currently working on a Tasks app<br>🌱 Learning to use Django for the backend and React for the front
+⚡ Hi, my name is Dani, 26 years old looking forward to become a full stack web developer<br>🔭 I’m currently working on a Tasks app<br>🌱 Learning to use ASP.NET MCV
 
 
 ## 🌐 Socials:
