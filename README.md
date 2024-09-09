@@ -1,5 +1,5 @@
 # 💫 About Me:
-⚡ Hi, my name is Dani, 27 years old looking forward to become a full stack web developer<br>🔭 I’m currently working on a Astro + React e-commerce web<br>🌱 Learning to use ASP.NET
+⚡ Hi, my name is [Dani](https://danimarqz.dev), 27 years old looking forward to become a full stack web developer<br>🔭 I’m currently working on an Astro + Cloudflare Worker e-commerce web<br>🌱 Learning to use ASP.NET
 
 
 ## 🌐 Socials:
