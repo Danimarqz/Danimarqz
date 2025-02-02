@@ -1,5 +1,8 @@
 # 💫 About Me:
-⚡ Hi, my name is [Dani](https://danimarqz.dev), 27 years old looking forward to become a full stack web developer<br>🔭 I’m currently working on an Astro + Cloudflare Worker e-commerce web<br>🌱 Learning to use ASP.NET
+⚡ Hi, my name is [Dani](https://danimarqz.dev), 27 y/o software developer
+<br>🔭 Currently working with <strong>Odoo</strong> and, in my free time, building an <strong>Astro + Cloudflare Workers</strong> e-commerce platform
+<br>🌱 Learning: DevOps | AI/ML | Cybersecurity
+<br>💡 Always eager to explore new technologies and optimize performance & security in web applications
 
 
 ## 🌐 Socials:
